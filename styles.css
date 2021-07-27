@@ -1,0 +1,33 @@
+body
+{
+	background-color: lightpink;
+	background-position: center;
+}
+
+hr
+{
+	border-style: dotted;
+	background-position: 50%;
+}
+img{
+	border-style: solid;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
+#image{
+	background-color: moccasin;
+	width: 205px;
+	height: 205px;
+}
+
+.profile{
+	width: 100px;
+	height: 100px;
+	padding-left: 100px;
+}
+.write{
+	padding-left: 700px;
+	width: 300px;
+	height: 300px;
+}
